@@ -1,2 +1,2 @@
 # EjerciciosJavaScript
-Todos los ejercicios hechos en Javascipt
+Todos los ejercicios hechos en Javascript
