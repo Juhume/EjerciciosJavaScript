@@ -1,8 +1,11 @@
 'use strict'
 
 /*
-Programa que pidas dos numeros y que nos diga cual es el mayor, menos y si son iguales
-Plus: Si lo snumeros no son un numero o son menores o iguales a cero, nos los vuelva a pedir
+Programa que pidas dos números y que nos diga cual es el mayor, menos y si son iguales.
+Plus: Si los números no son un número o son menores o iguales a cero, nos los vuelva a pedir.
+
+
+
 console.log(numero1, numero2);
 
 */
